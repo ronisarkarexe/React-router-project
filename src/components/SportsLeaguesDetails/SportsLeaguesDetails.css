@@ -1,0 +1,44 @@
+.leaguesDetails{
+   display: flex;
+   margin-top:30px;
+   border-radius: 10px;
+   width:100%;
+   height:210px;
+   background-color: rgb(59, 110, 219);
+}
+.text-details{
+   color:white;
+   margin-top:34px;
+}
+.lorem{
+   color:white;
+   margin-top:17px;
+   margin-left: -15px;
+}
+.image-size{
+   margin-top: 15px;
+   width:454px;
+   height:180px;
+   margin-left:80px;
+}
+.icon-bar img{
+   width:40px;
+   margin:5px;
+}
+.icon-row{
+   margin-left: 42%;
+}
+.icon-image img{
+   width:160px;
+   margin-left:45%;
+   margin-top: 29px;
+}
+.icon-image{
+   width:100%;
+   height:220px;
+   background-image: url(../../image/photo.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+
